@@ -15,11 +15,17 @@ Feel free to submit issues, fixes or suggestions to improvements for the project
 
 Here are some projects that are currently active:
 
-- [twilio-run](https://github.com/twilio-labs/twilio-run)  _Develop locally and deploy to Twilio Serverless_
-- [serverless-api](https://github.com/twilio-labs/serverless-api)  _Node.js wrapper for the Twilio Serverless API_
-- [function-templates](https://github.com/twilio-labs/function-templates)   _Collection of Function templates for Twilio Serverless_
-- [create-twilio-function](https://github.com/twilio-labs/create-twilio-function)  _CLI to bootstrap Twilio Serverless projects_
+- [twilio-run](https://github.com/twilio-labs/twilio-run)  _Develop locally and deploy to Twilio Functions_
+- [serverless-api](https://github.com/twilio-labs/serverless-api)  _Node.js wrapper for the Twilio Runtime API_
+- [function-templates](https://github.com/twilio-labs/function-templates)   _Collection of Function templates for Twilio Functions_
+- [create-twilio-function](https://github.com/twilio-labs/create-twilio-function)  _CLI to bootstrap Twilio Function projects_
 - [plugin-serverless](https://github.com/twilio-labs/plugin-serverless)  _A plugin for Twilio CLI to use `twilio-run`_
+- [plugin-token](https://github.com/twilio-labs/plugin-token) _A plugin for the Twilio CLI to generate access tokens for client-side SDKs_
+- [svg-to-react](https://github.com/twilio-labs/svg-to-react) _Tool that generates React components out of SVG files_
+- [serverless-framework-integration](https://github.com/twilio-labs/serverless-framework-integration) _Twilio Runtime Integration for Serverless Framework_
+- [plugin-flex-realtime-stats-dashboard](https://github.com/twilio-labs/plugin-flex-realtime-stats-dashboard) _Sample Twilio Flex plugin for a real time stats solution_
+- [plugin-flex-outbound-dialpad](https://github.com/twilio-labs/plugin-flex-outbound-dialpad) _Sample Twilio Flex plugin for a dialpad solution that allows for conferencing and supervisor monitor_
+
 
 ## Code of Conduct
 
