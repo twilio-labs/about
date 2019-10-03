@@ -26,6 +26,7 @@ Here are some projects that are currently active:
 - [svg-to-react](https://github.com/twilio-labs/svg-to-react) _Tool that generates React components out of SVG files_
 - [plugin-flex-realtime-stats-dashboard](https://github.com/twilio-labs/plugin-flex-realtime-stats-dashboard) _Sample Twilio Flex plugin for a real-time stats solution_
 - [plugin-flex-outbound-dialpad](https://github.com/twilio-labs/plugin-flex-outbound-dialpad) _Sample Twilio Flex plugin for a dialpad solution that allows for conferencing and supervisor monitor_
+- [open-pixel-art](https://github.com/twilio-labs/open-pixel-art) _A collaborative pixel art project to teach people how to contribute to open-source_
 
 
 ## Code of Conduct
