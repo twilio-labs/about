@@ -40,39 +40,3 @@ Your safety and comfort are important to us. The Code of Conduct lets everyone k
 # License
 
 MIT
-
-<!--
-
-                                       +sy `/:oyh/
-                                       `-` `syyyh:
-                                     `./.    -:-` 
-                               ````` +oyy`        
-                              .-/.`.-/+/`         
-      .---.`                 ````:://:::`         
-  `:ossssssss+.             ..` .:/:+ss-.         
- -sso:.````-/os+`          -.``./ss::/-           
--ys/`./: ``` .oso         -.``.-:/+-.-            
-sso` -++``.`  :oy-      `/:.-::::/:.-             
-sso` `.. -o+` :oy-  .::+++ossssyss--              
--ys/```` ./:`-osy/::. .//+yhyyyhs:-               
- -sso/-.``.:+oso`    -://yyhyyys:.                
-   -+ssssssyyyo: `  ::/+yyyyyyo:.                 
-      `//::/sh:+ -+o++oyyyyyy+:.                  
-       /+--::-/s `/:+syyyyyy+:`                   
-      `+    --:s.:/+syyyyyy/:`                    
-      :-    +. ::+oyyyyyyy/:`                     
-      +.  `-+ys+ysyyyyyyy/:                       
-      :/ .ohhyy+/yyyyyys::                        
-       //:hhyyyyo+soso+:.                         
-       .sohyyyyyys.-o.                            
-      `o``.:/++s/  `/:                            
-     `o`    ```o:  `-o                            
-    .o`       `s. `-/+                            
-    +o/:--...--y/+shh:                            
-   :yyhhhhhhhhhhhhhhh+                            
-  /yyyyyyyhhohyyyyyhho                            
- oyyyyyyyhho`hyyyyhhho                            
- :yyyhhhhhs` :osyso+-                             
-  `:+syyyo`                                       
-
--->
