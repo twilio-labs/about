@@ -4,7 +4,7 @@
 
 ## What is Twilio Labs?
 
-Twilio Labs hosts a variety of open-source projects that were developed by people 
+[Twilio Labs](https://www.twilio.com/labs) hosts a variety of open-source projects that were developed by people 
 at Twilio and the community. Every one of these projects welcomes contributions.
 
 Feel free to submit issues, fixes, or suggestions to improvements for the projects.
