@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img alt="Twilio Labs - Open-source projects by Twilio" src="static/header-image.png" />
 </p>
 
@@ -37,6 +37,9 @@ Your safety and comfort are important to us. The Code of Conduct lets everyone k
 <path d="M8 8H7V1.7L.9 7.9l-.8-.8L6.3 1H0V0h8v8z" fill="currentColor"></path>
 </svg></a>
 
+## Contributing 
+We appreciate open contributions from the people do read [CONTRIBUTIONS](CONTRIBUTING.md) for contribution guidelines
+
 # License
 
-MIT
+MIT [LICENSE](https://github.com/twilio-labs/about/blob/master/LICENSE)
