@@ -42,4 +42,4 @@ Your safety and comfort are important to us. The Code of Conduct lets everyone k
 
 # License
 
-MIT
+MIT, Cambridge, MA
