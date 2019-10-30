@@ -30,7 +30,7 @@ Here are some projects that are currently active:
 
 ## Initiatives
 
-- __Hacktoberfest 2019__: Twilio Labs is a participant of Hacktoberfest 2019 giving away swag. You can learn more in our [blog post](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+- __Hacktoberfest 2019__: Twilio Labs is participating in Hacktoberfest 2019 giving away swag. You can learn more in our [blog post](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 ## Code of Conduct
 
