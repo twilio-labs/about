@@ -4,16 +4,18 @@
 
 ## What is Twilio Labs?
 
-[Twilio Labs](https://www.twilio.com/labs) hosts a variety of open-source projects that were developed by people 
-at Twilio and the community. Every one of these projects welcomes contributions.
+[Twilio Labs](https://www.twilio.com/labs) hosts a variety of open-source projects that are developed by people 
+at Twilio and the community. 
 
-Feel free to submit issues, fixes, or suggestions to improvements for the projects.
+Each of the listed project welcomes contributions.
 
-*We can't wait to see what you __build together__ with us.*
+Feel free to submit issues, bugs and suggestions for improvements in the projects.
+
+*We can't wait to see what you __build together__ with us!*
 
 ## Examples
 
-Here are some projects that are currently active:
+Here are some currently active projects:
 
 - [Serverless Toolkit](https://github.com/twilio-labs/serverless-toolkit) _Collection of tools around the [Twilio Runtime](https://www.twilio.com/runtime)_
     - [twilio-run](https://github.com/twilio-labs/twilio-run)  _Develop locally and deploy to Twilio Functions_
@@ -30,11 +32,11 @@ Here are some projects that are currently active:
 
 ## Initiatives
 
-- __Hacktoberfest 2019__: Twilio Labs is participating in Hacktoberfest 2019 giving away swag. You can learn more in our [blog post](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
+- __Hacktoberfest 2019__: Twilio Labs is also participating in Hacktoberfest 2019 giving away swags, You can learn more in our [blog post](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 ## Code of Conduct
 
-Your safety and comfort are important to us. The Code of Conduct lets everyone know what’s expected, so we can do a better job of interacting with one another. All contributions to and interactions with Twilio's open-source projects have to adhere to our Code of Conduct. You can report violations at <a href="mailto:open-source@twilio.com?subject=Code of Conduct Violation">open-source@twilio.com</a>.
+Your safety and comfort is important to us, The Code of Conduct lets everyone know what’s expected, so we can do a better job of interacting with each other. All contributions and interactions with Twilio's open-source projects have to adhere to our Code of Conduct. You can report violations at <a href="mailto:open-source@twilio.com?subject=Code of Conduct Violation">open-source@twilio.com</a>.
 
 <a class="twlo-link-btn" href="https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md">Read the Code of Conduct <svg class="twlo-icon-interface-link-out" height="8" viewBox="0 0 8 8" width="8" xmlns="http://www.w3.org/2000/svg">
 <path d="M8 8H7V1.7L.9 7.9l-.8-.8L6.3 1H0V0h8v8z" fill="currentColor"></path>
