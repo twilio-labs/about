@@ -33,7 +33,7 @@ Here are some projects that are currently active:
 - __Hacktoberfest 2019__: Twilio Labs is participating in Hacktoberfest 2019 giving away swag. You can learn more in our [blog post](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
 
 ## Code of Conduct
-
+quest?
 Your safety and comfort are important to us. The Code of Conduct lets everyone know what’s expected, so we can do a better job of interacting with one another. All contributions to and interactions with Twilio's open-source projects have to adhere to our Code of Conduct. You can report violations at <a href="mailto:open-source@twilio.com?subject=Code of Conduct Violation">open-source@twilio.com</a>.
 
 <a class="twlo-link-btn" href="https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md">Read the Code of Conduct <svg class="twlo-icon-interface-link-out" height="8" viewBox="0 0 8 8" width="8" xmlns="http://www.w3.org/2000/svg">
