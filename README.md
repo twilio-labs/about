@@ -4,7 +4,7 @@
 
 ## What is Twilio Labs?
 
-[Twilio Labs](https://www.twilio.com/labs) hosts a variety of open-source projects that were developed by people 
+[Twilio Labs](https://www.twilio.com/labs) hosts a variety of open-source projects that were developed by people
 at Twilio and the community. Every one of these projects welcomes contributions.
 
 Feel free to submit issues, fixes, or suggestions to improvements for the projects.
@@ -39,6 +39,9 @@ Your safety and comfort are important to us. The Code of Conduct lets everyone k
 <a class="twlo-link-btn" href="https://github.com/twilio-labs/.github/blob/master/CODE_OF_CONDUCT.md">Read the Code of Conduct <svg class="twlo-icon-interface-link-out" height="8" viewBox="0 0 8 8" width="8" xmlns="http://www.w3.org/2000/svg">
 <path d="M8 8H7V1.7L.9 7.9l-.8-.8L6.3 1H0V0h8v8z" fill="currentColor"></path>
 </svg></a>
+
+## Testing
+You should report bugs when finding them
 
 # License
 
