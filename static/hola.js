@@ -1,0 +1,1 @@
+const idk="For training";
