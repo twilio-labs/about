@@ -28,10 +28,6 @@ Here are some projects that are currently active:
 - [plugin-flex-outbound-dialpad](https://github.com/twilio-labs/plugin-flex-outbound-dialpad) _Sample Twilio Flex plugin for a dialpad solution that allows for conferencing and supervisor monitor_
 - [open-pixel-art](https://github.com/twilio-labs/open-pixel-art) _A collaborative pixel art project to teach people how to contribute to open-source_
 
-## Initiatives
-
-- __Hacktoberfest 2019__: Twilio Labs is participating in Hacktoberfest 2019 giving away swag. You can learn more in our [blog post](https://www.twilio.com/blog/ahoy-hacktoberfest-2019).
-
 ## Code of Conduct
 
 Your safety and comfort are important to us. The Code of Conduct lets everyone know what’s expected, so we can do a better job of interacting with one another. All contributions to and interactions with Twilio's open-source projects have to adhere to our Code of Conduct. You can report violations at <a href="mailto:open-source@twilio.com?subject=Code of Conduct Violation">open-source@twilio.com</a>.
